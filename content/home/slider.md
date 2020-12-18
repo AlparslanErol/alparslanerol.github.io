@@ -16,7 +16,7 @@ height = ""
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
-  title = "Let's Learn :smile:"
+  title = "Let's Learn"
   content = "Medium"
   align = "center"  # Choose `center`, `left`, or `right`.
 
@@ -35,7 +35,7 @@ height = ""
   cta_icon = "school"
 
 [[item]]
-  title = "Let's Learn :smile:"
+  title = "Let's Learn"
   content = "Kaggle"
   align = "center"
 
@@ -52,7 +52,7 @@ height = ""
   cta_icon = "school"
 
 [[item]]
-  title = "Let's Learn :smile:"
+  title = "Let's Learn"
   content = "Coursera"
   align = "center"
 
